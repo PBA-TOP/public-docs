@@ -1,0 +1,17 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "PBA Documentation",
+  "description": "Guides and product documentation for the PBA platform.",
+  "colors": {
+    "primary": "#ee0049"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Home",
+        "pages": ["index"]
+      }
+    ]
+  }
+}
