@@ -7,11 +7,14 @@
     "primary": "#ee0049"
   },
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Home",
-        "pages": ["index"]
-      }
+        "pages": [
+          "index"
+        ]
+      },
+      "terms"
     ]
   }
 }
